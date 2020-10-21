@@ -1,0 +1,5 @@
+{
+    "base_url": "http://10.10.10.121/Parliament_backend/public/",
+    "api_base_url": "http://10.10.10.121/Parliament_backend/public/api/",
+    "google_maps_key" : "AIzaSyAT07iMlfZ9bJt1gmGj9KhJDLFY8srI6dA"
+  }
